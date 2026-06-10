@@ -1,8 +1,5 @@
 {
   "name": "kumua",
   "version": "1.0.0",
-  "description": "Detector de Interações Medicamentosas",
-  "dependencies": {
-    "@anthropic-ai/sdk": "^0.20.0"
-  }
+  "description": "Detector de Interações Medicamentosas"
 }
